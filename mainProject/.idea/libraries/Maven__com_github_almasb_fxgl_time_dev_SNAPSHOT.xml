@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.almasb:fxgl-time:dev-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-time/dev-SNAPSHOT/fxgl-time-dev-20210225.140010-1693.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-time/dev-SNAPSHOT/fxgl-time-dev-20210225.140010-1693-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-time/dev-SNAPSHOT/fxgl-time-dev-20210225.140010-1693-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

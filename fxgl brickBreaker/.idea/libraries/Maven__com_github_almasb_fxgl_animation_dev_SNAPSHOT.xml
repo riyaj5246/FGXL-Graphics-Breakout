@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.almasb:fxgl-animation:dev-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-animation/dev-SNAPSHOT/fxgl-animation-dev-20210226.140011-1727.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-animation/dev-SNAPSHOT/fxgl-animation-dev-20210226.140011-1727-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-animation/dev-SNAPSHOT/fxgl-animation-dev-20210226.140011-1727-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

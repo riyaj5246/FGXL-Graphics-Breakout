@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.almasb:fxgl-input:dev-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-input/dev-SNAPSHOT/fxgl-input-dev-20210221.140127-1717.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-input/dev-SNAPSHOT/fxgl-input-dev-20210221.140127-1717-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-input/dev-SNAPSHOT/fxgl-input-dev-20210221.140127-1717-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

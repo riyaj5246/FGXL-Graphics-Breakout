@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.almasb:fxgl-cutscene:dev-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-cutscene/dev-SNAPSHOT/fxgl-cutscene-dev-20210221.140048-1426.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-cutscene/dev-SNAPSHOT/fxgl-cutscene-dev-20210221.140048-1426-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-cutscene/dev-SNAPSHOT/fxgl-cutscene-dev-20210221.140048-1426-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

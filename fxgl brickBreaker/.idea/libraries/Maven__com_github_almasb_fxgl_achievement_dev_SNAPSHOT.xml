@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.almasb:fxgl-achievement:dev-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-achievement/dev-SNAPSHOT/fxgl-achievement-dev-20210226.140014-1586.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-achievement/dev-SNAPSHOT/fxgl-achievement-dev-20210226.140014-1586-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-achievement/dev-SNAPSHOT/fxgl-achievement-dev-20210226.140014-1586-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

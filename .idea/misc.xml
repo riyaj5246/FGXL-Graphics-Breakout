@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Drop App/pom.xml" />
+        <option value="$PROJECT_DIR$/Asteroids/pom.xml" />
+        <option value="$PROJECT_DIR$/mainProject/pom.xml" />
+        <option value="$PROJECT_DIR$/Geometry Wars/pom.xml" />
+        <option value="$PROJECT_DIR$/mainProject v2/pom.xml" />
+        <option value="$PROJECT_DIR$/fxgl brickBreaker/pom.xml" />
+        <option value="$PROJECT_DIR$/fxgl blank project/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK" />
+</project>

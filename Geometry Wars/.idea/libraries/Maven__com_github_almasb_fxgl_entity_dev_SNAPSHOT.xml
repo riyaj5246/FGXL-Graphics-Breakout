@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.almasb:fxgl-entity:dev-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-entity/dev-SNAPSHOT/fxgl-entity-dev-20210221.140051-1661.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-entity/dev-SNAPSHOT/fxgl-entity-dev-20210221.140051-1661-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-entity/dev-SNAPSHOT/fxgl-entity-dev-20210221.140051-1661-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

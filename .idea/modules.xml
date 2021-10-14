@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mainProject/Game.iml" filepath="$PROJECT_DIR$/mainProject/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geometry Wars/Game (1).iml" filepath="$PROJECT_DIR$/Geometry Wars/Game (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainProject v2/Game (2).iml" filepath="$PROJECT_DIR$/mainProject v2/Game (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fxgl brickBreaker/Game (3).iml" filepath="$PROJECT_DIR$/fxgl brickBreaker/Game (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fxgl blank project/Game (4).iml" filepath="$PROJECT_DIR$/fxgl blank project/Game (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Drop App/Pong.iml" filepath="$PROJECT_DIR$/Drop App/Pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asteroids/Pong (1).iml" filepath="$PROJECT_DIR$/Asteroids/Pong (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fxgl graphics.iml" filepath="$PROJECT_DIR$/.idea/fxgl graphics.iml" />
+    </modules>
+  </component>
+</project>

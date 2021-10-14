@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.almasb:fxgl-minigames:dev-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-minigames/dev-SNAPSHOT/fxgl-minigames-dev-20210307.181732-1533.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-minigames/dev-SNAPSHOT/fxgl-minigames-dev-20210307.181732-1533-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/almasb/fxgl-minigames/dev-SNAPSHOT/fxgl-minigames-dev-20210307.181732-1533-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

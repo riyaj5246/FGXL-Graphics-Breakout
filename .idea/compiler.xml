@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Game (4)" />
+        <module name="Game" />
+        <module name="Pong (1)" />
+        <module name="Game (1)" />
+        <module name="Pong" />
+        <module name="Game (3)" />
+        <module name="Game (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Game" target="1.5" />
+      <module name="Game (1)" target="1.5" />
+      <module name="Game (2)" target="1.5" />
+      <module name="Game (3)" target="1.5" />
+      <module name="Game (4)" target="1.5" />
+      <module name="Pong" target="1.5" />
+      <module name="Pong (1)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
